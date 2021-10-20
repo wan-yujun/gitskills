@@ -1,3 +1,4 @@
 # gitskills
 test
-Createing a new branch is quick & simple.
+<<<<<<< HEAD
+Createing a new branch is quick and simple.
